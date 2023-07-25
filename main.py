@@ -11,7 +11,7 @@ for c in range(0,4):
     comida.clear()
 
 
-test = "jhon"
+test = "maicon"
 
 print(cardapio)
 
