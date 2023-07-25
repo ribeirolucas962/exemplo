@@ -10,6 +10,9 @@ for c in range(0,4):
     cardapio.append (comida[:])
     comida.clear()
 
+
+test = "jhon"
+
 print(cardapio)
 
 
